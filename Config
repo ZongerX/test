@@ -1,6 +1,6 @@
 [SMTP]
 HOST=smtp.yandex.ru
-LOGIN=multihack.update1
+LOGIN=multihack.update
 PASSWORD=multihackupdate
 PORT=465
 COLLECTOR=chijikson@yandex.ru
