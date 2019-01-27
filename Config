@@ -12,4 +12,4 @@ TIME=900000
 [IMAGE]
 COMPRESSION=100
 [FILE]
-ATTACH=C:\Users\ZongerX\AppData\Local\Google\Chrome\User Data\Default\Cookies
+ATTACH=D:\Dropbox\Projects\RuntimeUpdater\Win32\Release\ssleay32.dll
