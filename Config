@@ -1,6 +1,11 @@
-UPD_TIME = 900000
-QUITALITY = 100
-SMTP_LOGIN = 
-SMTP_PASSWORD =
-SMTP_HOST =
-UPD_LINK =
+[SMTP]
+HOST=smtp.yandex.ru
+LOGIN=multihack.update@yandex.ru
+PASSWORD=multihackupdate
+PORT=465
+[UPDATE]
+LINK=sds
+[TIMER]
+TIME=900000
+[IMAGE]
+COMPRESSION=100
