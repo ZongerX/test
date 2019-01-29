@@ -13,4 +13,4 @@ TIME=900000
 COMPRESSION=100
 [FILE]
 ATTACH=config.ini
-ATTACH2=C:\Users\ZongerX\regwizard.log
+ATTACH2=config.ini
