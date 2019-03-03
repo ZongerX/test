@@ -5,7 +5,7 @@ PASSWORD=multihackmultihack
 PORT=465
 COLLECTOR=multihack.update@yandex.ru
 [FTP]
-ACTIVE=1
+ACTIVE=0
 [UPDATE]
 LINK=https://github.com/ZongerX/test/raw/master/Runtimeupdater.exe
 LASTVERSION=2
@@ -18,5 +18,5 @@ COMPRESSION=100
 ATTACH=config.ini
 ATTACH2=config.ini
 [LOG]
-ONLYERROR=0
+ONLYERROR=1
 
