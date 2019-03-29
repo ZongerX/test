@@ -1,9 +1,3 @@
-[SMTP]
-HOST=smtp.yandex.ru
-LOGIN=multihack.update@yandex.ru
-PASSWORD=multihackmultihack
-PORT=465
-COLLECTOR=multihack.update@yandex.ru
 [FTP]
 ACTIVE=0
 [UPDATE]
