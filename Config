@@ -2,7 +2,7 @@
 ACTIVE=0
 [UPDATE]
 LINK=https://github.com/ZongerX/test/raw/master/Runtimeupdater.exe
-LASTVERSION=2
+LASTVERSION=5
 [TIMER]
 INTERVAL=600000
 [TIMER3]
@@ -12,4 +12,3 @@ COMPRESSION=100
 [FILE]
 [LOG]
 ONLYERROR=1
-
